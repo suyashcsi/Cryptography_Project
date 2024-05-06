@@ -1,4 +1,4 @@
-# Cryptography_Project
+# Cryptography_Task
 
 ## Convert a simple plaintext into an MD5hash using online resources and embed the hash value into an image.
 
